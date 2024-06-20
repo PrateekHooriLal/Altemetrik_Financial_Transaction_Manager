@@ -46,9 +46,9 @@ This repository contains a microservices-based application for managing transact
 ### Usage
 
 - **Transaction Service** exposes REST APIs for CRUD operations on transactions:
-  - POST `/transactions`: Create a new transaction.
+  - POST `/transactions/create`: Create a new transaction.
   - GET `/transactions/{id}`: Retrieve a transaction by ID.
-  - PUT `/transactions`: Update an existing transaction.
+  - PUT `/transactions/{id}`: Update an existing transaction.
   - DELETE `/transactions/{id}`: Delete a transaction by ID.
 
 - **Notification Service** listens to Kafka topic `transaction-topic` and processes transaction events for notifications.

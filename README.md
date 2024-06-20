@@ -7,7 +7,6 @@ Certainly! Below is a sample README.md file content that you can use for your Gi
 This repository contains a microservices-based application for managing transactions using Spring Boot and Kafka. The system consists of two microservices:
 
 1. **Transaction Service**: Handles CRUD operations for transactions and publishes transaction events to Kafka.
-2. **Notification Service**: Listens to transaction events from Kafka and processes notifications.
 
 ## Technologies Used
 

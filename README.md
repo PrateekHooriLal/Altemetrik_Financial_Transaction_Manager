@@ -2,7 +2,7 @@ Certainly! Below is a sample README.md file content that you can use for your Gi
 
 ---
 
-# Microservices-based Transaction Management System with Kafka Integration
+# Financial Transaction Management System
 
 This repository contains a microservices-based application for managing transactions using Spring Boot and Kafka. The system consists of two microservices:
 

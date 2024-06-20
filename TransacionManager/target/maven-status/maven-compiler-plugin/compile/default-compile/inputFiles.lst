@@ -1,0 +1,8 @@
+C:\Users\jojoh\git\LearningJava\TransacionManager\src\main\java\com\transaction\manager\config\KafkaConfiguration.java
+C:\Users\jojoh\git\LearningJava\TransacionManager\src\main\java\com\transaction\manager\controller\TransactionController.java
+C:\Users\jojoh\git\LearningJava\TransacionManager\src\main\java\com\transaction\manager\entity\Transaction.java
+C:\Users\jojoh\git\LearningJava\TransacionManager\src\main\java\com\transaction\manager\repository\TransactionRepository.java
+C:\Users\jojoh\git\LearningJava\TransacionManager\src\main\java\com\transaction\manager\service\TransactionConsumer.java
+C:\Users\jojoh\git\LearningJava\TransacionManager\src\main\java\com\transaction\manager\service\TransactionProducer.java
+C:\Users\jojoh\git\LearningJava\TransacionManager\src\main\java\com\transaction\manager\service\TransactionService.java
+C:\Users\jojoh\git\LearningJava\TransacionManager\src\main\java\com\transaction\manager\TransacionManagerApplication.java

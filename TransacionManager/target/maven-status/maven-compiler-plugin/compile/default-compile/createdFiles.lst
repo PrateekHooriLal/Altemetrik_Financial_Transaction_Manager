@@ -1,0 +1,8 @@
+com\transaction\manager\TransacionManagerApplication.class
+com\transaction\manager\controller\TransactionController.class
+com\transaction\manager\service\TransactionProducer.class
+com\transaction\manager\entity\Transaction.class
+com\transaction\manager\service\TransactionConsumer.class
+com\transaction\manager\repository\TransactionRepository.class
+com\transaction\manager\config\KafkaConfiguration.class
+com\transaction\manager\service\TransactionService.class

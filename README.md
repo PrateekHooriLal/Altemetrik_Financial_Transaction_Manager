@@ -1,7 +1,3 @@
-Certainly! Below is a sample README.md file content that you can use for your GitHub repository for the microservices-based system handling transactions with Kafka integration:
-
----
-
 # Financial Transaction Management System
 
 This repository contains a microservices-based application for managing transactions using Spring Boot and Kafka. The system consists of two microservices:
